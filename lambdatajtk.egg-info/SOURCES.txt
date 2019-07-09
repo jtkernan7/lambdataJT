@@ -1,0 +1,7 @@
+README.md
+setup.py
+lambdatajtk/__init__.py
+lambdatajtk.egg-info/PKG-INFO
+lambdatajtk.egg-info/SOURCES.txt
+lambdatajtk.egg-info/dependency_links.txt
+lambdatajtk.egg-info/top_level.txt

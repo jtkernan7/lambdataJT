@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: lambdatajtk
+Version: 0.0.1
+Summary: simple helper functions
+Home-page: https://github.com/jtkernan7/DS-Unit-3-Sprint-1-Software-Engineering/tree/master/module1-python-modules-packages-and-environments
+Author: John Timothy Kernan Jr
+Author-email: jtkernan7@gmail.com
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
